@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/usuario/PycharmProjects/deteccao_fraudes_mlflow/mlruns/535849943540539284/767b7af5b3244954bfe3c0ba8d7909ec/artifacts
+end_time: 1762202744911
+entry_point_name: ''
+experiment_id: '535849943540539284'
+lifecycle_stage: active
+run_id: 767b7af5b3244954bfe3c0ba8d7909ec
+run_name: Run_3_RF_Fast_Simple
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762202716450
+status: 3
+tags: []
+user_id: usuario

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/usuario/PycharmProjects/deteccao_fraudes_mlflow/mlruns/535849943540539284/models/m-67529668a18d4b5ab71ee3c4e8e8f705/artifacts
+creation_timestamp: 1762202711461
+experiment_id: '535849943540539284'
+last_updated_timestamp: 1762202716423
+model_id: m-67529668a18d4b5ab71ee3c4e8e8f705
+model_type: null
+name: random_forest_model
+source_run_id: 561244e267d448bb8404a8c3cf473d5d
+status: 2
+status_message: null

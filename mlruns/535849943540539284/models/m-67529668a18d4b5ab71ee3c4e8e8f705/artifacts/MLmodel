@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/usuario/PycharmProjects/deteccao_fraudes_mlflow/mlruns/535849943540539284/models/m-67529668a18d4b5ab71ee3c4e8e8f705/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-67529668a18d4b5ab71ee3c4e8e8f705
+model_size_bytes: 4692313
+model_uuid: m-67529668a18d4b5ab71ee3c4e8e8f705
+prompts: null
+run_id: 561244e267d448bb8404a8c3cf473d5d
+utc_time_created: '2025-11-03 20:45:11.514411'

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/usuario/PycharmProjects/deteccao_fraudes_mlflow/mlruns/535849943540539284/models/m-ab7ae5ca2f4c4e168c13e9f8b9d21810/artifacts
+creation_timestamp: 1762195549162
+experiment_id: '535849943540539284'
+last_updated_timestamp: 1762195555808
+model_id: m-ab7ae5ca2f4c4e168c13e9f8b9d21810
+model_type: null
+name: logistic_regression_model
+source_run_id: 57fd4257b36240fe818b7546ca6743ec
+status: 2
+status_message: null
