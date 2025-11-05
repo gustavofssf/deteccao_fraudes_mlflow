@@ -60,3 +60,7 @@ Para revisar todas as 21 iterações de treinamento, métricas e parâmetros reg
 ```bash
 # Na raiz do projeto, com o venv ativo
 mlflow ui
+
+## 🔚 Conclusão:
+
+Embora o escopo inicial envolvesse modelos lineares como a Regressão Logística (LR), o teste inicial com a LR demonstrou sua ineficácia diante do severo desbalanceamento (Precision < 1%). Por essa razão, o projeto escalou para o Random Forest Classifier, um modelo não linear mais robusto, que provou ser a ferramenta correta, alcançando um Precision 7x maior e um excelente AUC-ROC de 0.9797, provando a superioridade do modelo para este domínio financeiro.
