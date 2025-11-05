@@ -60,6 +60,7 @@ Para revisar todas as 21 iterações de treinamento, métricas e parâmetros reg
 ```bash
 # Na raiz do projeto, com o venv ativo
 mlflow ui
+```
 
 ## 🔚 Conclusão:
 
